@@ -1,0 +1,2 @@
+# NseGod
+Learning codes 
